@@ -133,14 +133,6 @@ Sou engenheiro de software com mais de nove anos de experiência em desenvolvime
 
 <div style="display: flex;">
   <div>
-  <img 
-    align="left"  
-    alt="Github Status" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=JhonathanPvc&show_icons=true&theme=dracula&locale=pt-br"/>
-  </div>
-  <div>
     <img 
       align="left"
       alt="GitHub Stats" 
